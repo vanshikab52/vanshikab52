@@ -5,6 +5,7 @@
 </p>
 
 ---
+<img align="right" alt="Coding" width="400" height="250" src="https://raw.githubusercontent.com/devesh2511/devesh2511/main/code.gif">
 
 ### 🧰 Languages and Tools
 
@@ -24,8 +25,6 @@
 
 <br />
 
-
-<img align="right" alt="Coding" width="400" height="250" src="https://raw.githubusercontent.com/devesh2511/devesh2511/main/code.gif">
 
 #
 ### 📊 Stats
