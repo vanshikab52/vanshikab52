@@ -3,7 +3,7 @@
   <a href="https://github.com/vanshikab52/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Vanshika!;A%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 👋 Welcome to my GitHub profile!
 
