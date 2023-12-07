@@ -10,7 +10,7 @@
 
 This is Vanshika Bisht, a pre-final year student at Vellore Institute of Technology, Bhopal University. Currently, I am pursuing a BTech in Computer Science Engineering.
 
- I am a front-end developer honing my skills in the problem-solving arena. Currently, I'm dedicated to mastering data structures and algorithms, and I have my sights set on exploring the exciting world of network security. I am passionate about building projects that solve meaningful problems and am always ready to learn something new to push the boundaries of innovation.
+ I am a front-end developer honing my skills in the problem-solving arena. Currently, I'm dedicated to mastering data structures and algorithms, and I have my sights set on exploring the exciting world of network security. I am passionate about building projects that solve meaningful problems and I am always ready to learn something new to push the boundaries of innovation.
 
 
 ---
