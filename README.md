@@ -7,7 +7,7 @@
 
 ## About Me  🚀
 <p>
-🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+🔭 I'm a passionate final-year BTech CSE student with a knack of learning something new everyday.
 </p><p>
 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p><p>
