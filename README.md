@@ -4,16 +4,22 @@
 </p>
 <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-👋 Welcome to my GitHub profile!
 
-
-This is Vanshika Bisht, a final-year student at Vellore Institute of Technology, Bhopal University. Currently, I am pursuing a BTech in Computer Science Engineering.
-
- I am a front-end developer honing my skills in the problem-solving arena. Currently, I'm dedicated to mastering data structures and algorithms, and I have my sights set on exploring the exciting world of network security. I am passionate about building projects that solve meaningful problems and I am always ready to learn something new to push the boundaries of innovation.
+## About Me  🚀
+<p>
+🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+</p><p>
+📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+</p><p>
+📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
+</p><p>
+🌱 Enthusiast in Open Source and Web Development.</p>
+<p>
+🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
 
 
 ---
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) 
@@ -28,7 +34,7 @@ This is Vanshika Bisht, a final-year student at Vellore Institute of Technology,
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 Github Stats:
+## 📊 Github Stats:
 <br/>
 <table align="center">
   <tr align="center">
