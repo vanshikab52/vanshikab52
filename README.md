@@ -25,6 +25,9 @@
 <a href="https://leetcode.com/u/vanshikab25/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
+<a href="mailto:vanshikabisht777@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 
  <br><br>
 ## 💻 Tech Stack:
