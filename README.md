@@ -12,7 +12,7 @@
 </p><p>
 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
 </p><p>
-🌱 Enthusiast in Open Source and Web Development.</p>
+🌱 Enthusiast in Open Source and Data analysis.</p>
 <p>
 🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
 <br><br>
