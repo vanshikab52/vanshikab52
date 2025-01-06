@@ -33,8 +33,8 @@
 ## 💻 Tech Stack:
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs" />
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,cpp"/>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,excel,powerbi" />
+    <img src="https://skillicons.dev/icons?i=javascript,MySQL,cpp"/>
 
 </div>
 <br><be>
