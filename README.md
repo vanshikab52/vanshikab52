@@ -12,7 +12,7 @@
 </p><p>
 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
 </p><p>
-🌱 Passionate about transforming data into insights and driving informed decisions.</p>
+🌱 Passionate about transforming 𝐃𝐚𝐭𝐚 into 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 and driving informed 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧𝐬.</p>
 <p>
 🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
 <br><br>
