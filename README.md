@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p>
-🔭 I'm a passionate final-year BTech CSE student with a knack for learning something new daily.
+🔭 I'm a final-year BTech CSE student with a knack for learning something new daily.
 </p><p>
 📎 In my free time I love to learn about the latest technologies and work on my logic-building skills.
 </p><p>
