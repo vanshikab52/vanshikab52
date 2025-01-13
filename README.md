@@ -15,8 +15,14 @@
 🌱 Passionate about transforming 𝐃𝐚𝐭𝐚 into 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 and driving informed 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧𝐬.</p>
 <p>
 🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
-<br><br>
+<br><be>
 
+## 💡 Core Competencies 💡
+
+- <b>Languages:</b> SQL, Python, C++
+- <b>Database:</b> SQL Server, MySQL
+- <b>Visualisation:</b> PowerBI
+<br>
 <h2 >Connect with me 🤝</h2>
 <br/>
 <a href="https://www.linkedin.com/in/vanshika-bisht-a875aa2b7/" target="_blank" style="text-decoration: none;">
